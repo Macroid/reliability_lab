@@ -14,9 +14,9 @@ Days 1-3
 - [x] Install: Git, tmux/screen, curl, wget, net-tools, htop.
 - [x] Read: “What is SRE?” (Google SRE book – Chapters 1 & 2).
 - [x] Pick a lightweight note system (Notion/Obsidian/Markdown in repo).
-- [ ] Draft your LinkedIn headline pivoting toward SRE (“Reliability-focused engineer…”).
+- [x] Draft your LinkedIn headline pivoting toward SRE (“Reliability-focused engineer…”).
 - [ ] Configure password-less SSH between your two lab machines.
-- [ ] Make a personal “dotfiles” repo and symlink them.
+- [x] Make a personal “dotfiles” repo and symlink them.
 - [x] `/Kickoff/Kickoff Goals.md` – your goals, environment diagram, and a checklist.
 
 # Environment Diagram
